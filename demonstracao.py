@@ -1,0 +1,5 @@
+valor =  input ("ola! Vamos somar?! Digite um numero ")
+valorsoma = input("muito bom! Agora Vamos somar ele com outro numero, digite mais um ")
+print ('carregando..... ')
+soma = int(valor) + int(valorsoma)
+print ("e o resultado e....", soma)
