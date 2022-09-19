@@ -1,11 +1,4 @@
-
-
-num1=int(input('digite seu numero aqui: '))
-num2=int(input('digite ou numero para fazer a soma:'))
-
-input = num1 + num2
-
-print("o resultado deu:", input  )
-
-
-
+nome=input('qual e seu nome? ')
+idade=input ('qual e sua idade? ')
+peso=input('qual seu peso? ')
+print("seu nome e", nome, "sua idade e", idade, "seu peso e", peso)
