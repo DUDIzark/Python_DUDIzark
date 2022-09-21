@@ -13,5 +13,5 @@ soma1=n1 / 3
 
 
 print("O resultado do dobro e: {}".format(soma))
-print('o resultado do triplo e:{:.1f}'. format(soma1))
+print('o resultado da terceira parte e:{:.1f}'. format(soma1))
 print('------------------------------------------------------------!')
